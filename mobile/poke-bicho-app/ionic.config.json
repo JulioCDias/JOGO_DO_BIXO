@@ -1,0 +1,7 @@
+{
+  "name": "poke-bicho-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
