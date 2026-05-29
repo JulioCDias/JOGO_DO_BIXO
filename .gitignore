@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.sqlite3
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Node
+node_modules/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Keep templates versioned
+!.env-example
+!frontend/poke-bixo-app/.env-example
+!mobile/poke-bicho-app/.env-example
